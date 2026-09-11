@@ -1,10 +1,10 @@
-16fbe22fda016028df4c809ec87e07a2 *DESCRIPTION
+db2be2a07ca0f540bd47e39c924cdb29 *DESCRIPTION
 c42ee83afd42a64b9c4a34c7a3e04cdf *NAMESPACE
 01ccec194b986851d91ec6ab53b2459a *NEWS.md
 e30c170529c947fcbacadc4923440ef4 *R/RCppAD-package.R
 cf10b16a526c104f9324d082c3dec822 *README.md
 e16769132090ea294bb5803d5a0d088b *inst/include/RCppAD/cppad_trace_stream.hpp
-6589e79e71b05c5017ce5b856e49ae33 *inst/include/cppad/README.RCppAD.md
+a9aef2d96c145cad1a7c85e0b2a8f7c5 *inst/include/cppad/README.RCppAD.md
 c620881c89716e6c991e0a8b67b9687e *inst/include/cppad/base_require.hpp
 7eae5adec2468e6c1005f483954099c8 *inst/include/cppad/configure.hpp
 156436ffad2e5d41108357f35d754e84 *inst/include/cppad/core/abort_recording.hpp
@@ -409,7 +409,7 @@ cf15696eec3fdabf83faa4a61a570a47 *inst/include/cppad/utility/rosen_34.hpp
 a5985674f2c7e4b5996924e78aedcacb *inst/include/cppad/utility/runge_45.hpp
 11b2d2238eb3973f7981597d82ff322d *inst/include/cppad/utility/set_union.hpp
 84f2673c291c16a91c4d1affa61b36e9 *inst/include/cppad/utility/sparse2eigen.hpp
-28895dac58eccc0cdc3f11ef22c80717 *inst/include/cppad/utility/sparse_rc.hpp
+122382d470e80a1cab3da6d4a9aa0df5 *inst/include/cppad/utility/sparse_rc.hpp
 494fa8c28311d500de164085225ccec5 *inst/include/cppad/utility/sparse_rcv.hpp
 076c093e7d541e65dba162afb46d19d8 *inst/include/cppad/utility/speed_test.hpp
 324dc5586b6be9ee50b68580cc936c8c *inst/include/cppad/utility/test_boolofvoid.hpp
