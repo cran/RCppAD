@@ -1,3 +1,9 @@
+# RCppAD 20260000.0-2
+
+* `ADFun(ADFun&&)` now delegates to the default constructor before `swap`.
+  The previous constructor read uninitialized `bool` members, which
+  UndefinedBehaviorSanitizer reports while `adlaplace` move-constructs tapes.
+
 # RCppAD 20260000.0-1
 
 * Initial CRAN-oriented release: vendored CppAD 20260000.0 headers with

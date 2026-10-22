@@ -9,5 +9,7 @@ Applied by `tools/update-cppad.sh` (re-run after each upstream refresh):
    `std::cout` → `RCppAD::cppad_trace_stream()`.
 5. `utility/sparse_rc.hpp` — move ctor initializes `nr_`/`nc_`/`nnz_` before
    `swap` (avoids GCC 14 `-Wuninitialized` on Windows).
+6. `core/fun_construct.hpp` — `ADFun(ADFun&&)` delegates to `ADFun()` before
+   `swap` (avoids an UndefinedBehaviorSanitizer invalid-`bool` load).
 
 Helper: `inst/include/RCppAD/cppad_trace_stream.hpp`.

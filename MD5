@@ -1,10 +1,10 @@
-db2be2a07ca0f540bd47e39c924cdb29 *DESCRIPTION
+162c92c8ce2639b49a67c8f97d13cd47 *DESCRIPTION
 c42ee83afd42a64b9c4a34c7a3e04cdf *NAMESPACE
-01ccec194b986851d91ec6ab53b2459a *NEWS.md
+3d0d0bb3de5da9442dcc2267e9a9c79c *NEWS.md
 e30c170529c947fcbacadc4923440ef4 *R/RCppAD-package.R
 cf10b16a526c104f9324d082c3dec822 *README.md
 e16769132090ea294bb5803d5a0d088b *inst/include/RCppAD/cppad_trace_stream.hpp
-a9aef2d96c145cad1a7c85e0b2a8f7c5 *inst/include/cppad/README.RCppAD.md
+3abb12270581db9f920eb0e42529487a *inst/include/cppad/README.RCppAD.md
 c620881c89716e6c991e0a8b67b9687e *inst/include/cppad/base_require.hpp
 7eae5adec2468e6c1005f483954099c8 *inst/include/cppad/configure.hpp
 156436ffad2e5d41108357f35d754e84 *inst/include/cppad/core/abort_recording.hpp
@@ -112,7 +112,7 @@ f90d9688971cc158f14e6818b7c6992f *inst/include/cppad/core/for_sparse_jac.hpp
 f594c3f54b102799030c2a9ea82cc6d0 *inst/include/cppad/core/for_two.hpp
 89cb2ce27c8725f51171184c2eabcd63 *inst/include/cppad/core/forward/forward.hpp
 694d7593a058c45e9f45d6c0ad035fb4 *inst/include/cppad/core/fun_check.hpp
-b904fe41d1f0e318cb9aa8eabc7a153a *inst/include/cppad/core/fun_construct.hpp
+147998d943f10251a62d0babe54567ed *inst/include/cppad/core/fun_construct.hpp
 9d7febfc7dd1e4be5d6982700f75f749 *inst/include/cppad/core/fun_eval.hpp
 fb0e69acfa3cde852115c959c815dc3b *inst/include/cppad/core/graph/cpp_graph.hpp
 198462bb7e10f4365c35c430eafeed49 *inst/include/cppad/core/graph/from_graph.hpp
@@ -421,4 +421,4 @@ b13e6de43851cc853b6fa97b7c1dddc1 *inst/include/cppad/utility/vector.hpp
 9cb5a9d3ef1423e2ad46bed2e3fadc3a *inst/include/cppad/utility/vector_bool.hpp
 82eb0187379b75ac33f365bd6ac5c912 *inst/include/cppad/wno_conversion.hpp
 a70ff35319d472b39a1835739b2152e0 *man/RCppAD-package.Rd
-ba84116ee9493f717dc76dc227575cd3 *tests/compile-smoke.R
+c95d72acfd1a1636d4bd6016a9e5644b *tests/compile-smoke.R
